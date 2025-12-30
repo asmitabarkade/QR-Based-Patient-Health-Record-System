@@ -32,11 +32,7 @@ It also includes a **basic disease prediction module** based on patient symptoms
 ---
 
 ## 📂 Project Structure
-```src/
-├── model/
-├── service/
-├── controller/
-└── database/```
+
 
 
 ---
