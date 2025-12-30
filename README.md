@@ -32,11 +32,11 @@ It also includes a **basic disease prediction module** based on patient symptoms
 ---
 
 ## 📂 Project Structure
-src/
+```src/
 ├── model/
 ├── service/
 ├── controller/
-└── database/
+└── database/```
 
 
 ---
@@ -60,4 +60,3 @@ src/
 **Asmita Barkade**  
 GitHub: https://github.com/asmitabarkade
 
-Update README with project details
